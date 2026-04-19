@@ -11,7 +11,7 @@
 **Draw, write, and create using only your hand gestures via webcam.**  
 A professional browser-based canvas app powered by Google Mediapipe hand tracking.
 
-[🚀 Live Demo](#) · [📖 Documentation](#table-of-contents) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
+[🚀 Live Demo](https://air-writer.vercel.app/) · [📖 Documentation](#table-of-contents) · [🐛 Report Bug](../../issues) · [💡 Request Feature](../../issues)
 
 </div>
 
